@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <rect x="3" y="3" width="183" height="66" fill="#F6F4EF"/>
+  <circle cx="17.6" cy="22" r="2.6" fill="#C23A26"/>
+  <text x="25.5" y="25.2" font-family="HiraMinProN-W3, Hiragino Mincho ProN" font-size="8.5" letter-spacing="2.2" fill="#262523">緑茶</text>
+  <text x="13.9" y="54" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" letter-spacing="0.2" fill="#262523">Green Tea</text>
+  <g stroke="#B4AEA2" stroke-width="0.4">
+    <line x1="116" y1="18" x2="174" y2="18"/>
+    <line x1="116" y1="32" x2="174" y2="32"/>
+    <line x1="116" y1="46" x2="174" y2="46"/>
+  </g>
+  <g font-family="HelveticaNeue, Helvetica Neue" font-size="6.2" letter-spacing="0.25" fill="#262523">
+    <text x="116" y="26">Sencha</text>
+    <text x="116" y="40">Matcha</text>
+    <text x="116" y="54">Hojicha</text>
+  </g>
+  <g font-family="HiraginoSans-W3, Hiragino Sans" font-size="6.4" letter-spacing="0.5" fill="#5F5A53">
+    <text x="146.5" y="26">煎茶</text>
+    <text x="146.5" y="40">抹茶</text>
+    <text x="146.5" y="54">ほうじ茶</text>
+  </g>
+</svg>

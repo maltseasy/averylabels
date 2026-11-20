@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+styles/_gen/
+styles/_render/
+Avery7666AddressLabels.ai
+home-labels*
+make_labels.py
+label-styles.ai
+label-styles.svg
+label-styles-preview.png
+label-styles-r3.*
+label-styles-r3-preview.png
+label-styles-r3b*

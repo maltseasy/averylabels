@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <defs>
+    <clipPath id="s16-clip"><rect x="3" y="3" width="183" height="66"/></clipPath>
+  </defs>
+  <rect x="3" y="3" width="183" height="66" fill="#EBE1CB"/>
+  <g clip-path="url(#s16-clip)">
+    <!-- red wedge driving in from the left, lower edge parallel to the band -->
+    <polygon points="3,3 3,31.2 139,7.2" fill="#CE2018"/>
+    <g transform="rotate(-10 94.5 36)">
+      <!-- specific types: spec line set in the red wedge, parallel to the band -->
+      <text x="11" y="12.6" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="7" letter-spacing="0.6" fill="#EBE1CB">AA  <tspan fill="#151311">•</tspan>  AAA  <tspan fill="#151311">•</tspan>  9V  <tspan fill="#151311">•</tspan>  CR2032</text>
+      <!-- black diagonal band, bleeds off both ends -->
+      <rect x="-20" y="21" width="230" height="30" fill="#151311"/>
+      <text x="95.5" y="46.7" text-anchor="middle" font-family="HelveticaNeue-CondensedBlack, Helvetica Neue" font-size="30" letter-spacing="1.6" fill="#EBE1CB">BATTERIES</text>
+      <!-- red rule under the band, bleeds off the right edge -->
+      <rect x="80" y="54.2" width="130" height="2.2" fill="#CE2018"/>
+      <!-- polarity: red bar (negative) - Russian word - black disc with cross (positive) -->
+      <rect x="80" y="62.2" width="9.5" height="2.6" fill="#CE2018"/>
+      <text x="152" y="66.6" text-anchor="end" font-family="HelveticaNeue-CondensedBlack, Helvetica Neue" font-size="8.5" letter-spacing="1.8" fill="#151311">БАТАРЕЙКИ</text>
+      <circle cx="167" cy="69.6" r="9" fill="#151311"/>
+      <rect x="161.6" y="68.3" width="10.8" height="2.6" fill="#EBE1CB"/>
+      <rect x="165.7" y="64.2" width="2.6" height="10.8" fill="#EBE1CB"/>
+    </g>
+  </g>
+</svg>

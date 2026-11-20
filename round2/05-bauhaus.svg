@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <rect x="3" y="3" width="183" height="66" fill="#efe9d9"/>
+  <!-- left column: red square over black bar, rotated lowercase line (bayer letterhead manner) -->
+  <rect x="3" y="3" width="13" height="13" fill="#d42a1e"/>
+  <rect x="3" y="16" width="13" height="53" fill="#141414"/>
+  <text transform="translate(11.7 64.5) rotate(-90)" font-family="Futura-Medium, Futura" font-size="6.2" letter-spacing="1.6" fill="#efe9d9">werkzeug</text>
+  <!-- blue circle, cut by the rule -->
+  <circle cx="44" cy="39" r="23" fill="#1d4f9c"/>
+  <!-- yellow triangle standing on the rule -->
+  <polygon points="161,53 184,53 172.5,33.1" fill="#f2bd12"/>
+  <!-- heavy rule -->
+  <rect x="21" y="53" width="165" height="4.5" fill="#141414"/>
+  <!-- focal word -->
+  <text x="73" y="49.5" font-family="Futura-Bold, Futura" font-size="37" letter-spacing="-0.6" fill="#141414">tools</text>
+  <!-- lower strip -->
+  <text x="74.6" y="65.6" font-family="Futura-Medium, Futura" font-size="5.6" letter-spacing="0.8" fill="#141414">hammer  zange  feile  säge</text>
+  <text x="184" y="65.6" text-anchor="end" font-family="Futura-Bold, Futura" font-size="5.6" letter-spacing="1.1" fill="#141414">05</text>
+</svg>

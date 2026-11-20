@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+<rect x="3" y="3" width="183" height="66" fill="#FAF5E9"/>
+<g>
+<rect x="3" y="3" width="60.6" height="22.5" fill="#F0801A"/>
+<rect x="3" y="48.5" width="60.6" height="20.5" fill="#F0801A"/>
+<path d="M9.80,14.25 C9.80,10.34 12.00,8.83 16.30,8.58 Q33.3,6.06 50.30,8.58 C54.60,8.83 56.80,10.34 56.80,14.25 C56.80,18.16 54.60,19.67 50.30,19.92 Q33.3,22.44 16.30,19.92 C12.00,19.67 9.80,18.16 9.80,14.25 Z" fill="#FAF5E9"/>
+<path d="M11.00,14.25 C11.00,11.03 13.20,9.78 17.50,9.57 Q33.3,7.49 49.10,9.57 C53.40,9.78 55.60,11.03 55.60,14.25 C55.60,17.47 53.40,18.72 49.10,18.93 Q33.3,21.01 17.50,18.93 C13.20,18.72 11.00,17.47 11.00,14.25 Z" fill="none" stroke="#F0801A" stroke-width="0.4"/>
+<text x="33.60" y="16.30" text-anchor="middle" font-family="GillSans-SemiBold, Gill Sans" font-size="5.8" letter-spacing="0.6" fill="#1B1A18">FICTION</text>
+<rect x="29.10" y="52.55" width="8.4" height="12.4" fill="#FAF5E9"/>
+<rect x="29.80" y="53.25" width="7.0" height="3.6" fill="#F0801A"/>
+<rect x="29.80" y="60.65" width="7.0" height="3.6" fill="#F0801A"/>
+<line x1="31.30" y1="58.75" x2="35.30" y2="58.75" stroke="#1B1A18" stroke-width="0.45"/>
+</g>
+<g>
+<rect x="64.4" y="3" width="60.2" height="22.5" fill="#0E7A4C"/>
+<rect x="64.4" y="48.5" width="60.2" height="20.5" fill="#0E7A4C"/>
+<path d="M71.00,14.25 C71.00,10.34 73.20,8.83 77.50,8.58 Q94.5,6.06 111.50,8.58 C115.80,8.83 118.00,10.34 118.00,14.25 C118.00,18.16 115.80,19.67 111.50,19.92 Q94.5,22.44 77.50,19.92 C73.20,19.67 71.00,18.16 71.00,14.25 Z" fill="#FAF5E9"/>
+<path d="M72.20,14.25 C72.20,11.03 74.40,9.78 78.70,9.57 Q94.5,7.49 110.30,9.57 C114.60,9.78 116.80,11.03 116.80,14.25 C116.80,17.47 114.60,18.72 110.30,18.93 Q94.5,21.01 78.70,18.93 C74.40,18.72 72.20,17.47 72.20,14.25 Z" fill="none" stroke="#0E7A4C" stroke-width="0.4"/>
+<text x="94.80" y="16.30" text-anchor="middle" font-family="GillSans-SemiBold, Gill Sans" font-size="5.8" letter-spacing="0.6" fill="#1B1A18">CRIME</text>
+<rect x="90.30" y="52.55" width="8.4" height="12.4" fill="#FAF5E9"/>
+<rect x="91.00" y="53.25" width="7.0" height="3.6" fill="#0E7A4C"/>
+<rect x="91.00" y="60.65" width="7.0" height="3.6" fill="#0E7A4C"/>
+<line x1="92.50" y1="58.75" x2="96.50" y2="58.75" stroke="#1B1A18" stroke-width="0.45"/>
+</g>
+<g>
+<rect x="125.4" y="3" width="60.6" height="22.5" fill="#C2256B"/>
+<rect x="125.4" y="48.5" width="60.6" height="20.5" fill="#C2256B"/>
+<path d="M132.20,14.25 C132.20,10.34 134.40,8.83 138.70,8.58 Q155.7,6.06 172.70,8.58 C177.00,8.83 179.20,10.34 179.20,14.25 C179.20,18.16 177.00,19.67 172.70,19.92 Q155.7,22.44 138.70,19.92 C134.40,19.67 132.20,18.16 132.20,14.25 Z" fill="#FAF5E9"/>
+<path d="M133.40,14.25 C133.40,11.03 135.60,9.78 139.90,9.57 Q155.7,7.49 171.50,9.57 C175.80,9.78 178.00,11.03 178.00,14.25 C178.00,17.47 175.80,18.72 171.50,18.93 Q155.7,21.01 139.90,18.93 C135.60,18.72 133.40,17.47 133.40,14.25 Z" fill="none" stroke="#C2256B" stroke-width="0.4"/>
+<text x="156.00" y="16.30" text-anchor="middle" font-family="GillSans-SemiBold, Gill Sans" font-size="5.8" letter-spacing="0.6" fill="#1B1A18">TRAVEL</text>
+<rect x="151.50" y="52.55" width="8.4" height="12.4" fill="#FAF5E9"/>
+<rect x="152.20" y="53.25" width="7.0" height="3.6" fill="#C2256B"/>
+<rect x="152.20" y="60.65" width="7.0" height="3.6" fill="#C2256B"/>
+<line x1="153.70" y1="58.75" x2="157.70" y2="58.75" stroke="#1B1A18" stroke-width="0.45"/>
+</g>
+<text x="95.6" y="42" text-anchor="middle" font-family="GillSans-Bold, Gill Sans" font-size="14" letter-spacing="2.2" fill="#1B1A18">PAPERBACKS</text>
+</svg>

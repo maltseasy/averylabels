@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <defs>
+    <clipPath id="s28-clip"><rect x="3" y="3" width="183" height="66" rx="2" ry="2"/></clipPath>
+  </defs>
+  <g clip-path="url(#s28-clip)">
+    <!-- white vitreous-enamel ground -->
+    <rect x="3" y="3" width="183" height="66" fill="#FFFFFF"/>
+    <!-- enamel name band -->
+    <rect x="3" y="3" width="183" height="20" fill="#0019A8"/>
+    <text x="96.1" y="18" text-anchor="middle" font-family="GillSans-SemiBold, Gill Sans" font-size="14.5" letter-spacing="3.2" fill="#FFFFFF">TRAVEL</text>
+    <!-- route lines, 45-degree geometry -->
+    <path d="M3,59 H12 L26,45 H186" fill="none" stroke="#DC241F" stroke-width="2.6" stroke-linejoin="round"/>
+    <polygon points="46.7,45 49.3,45 49.3,55.462 62.838,69 59.162,69 46.7,56.538" fill="#007229"/>
+    <polygon points="151.3,45 148.7,45 148.7,55.462 135.162,69 138.838,69 151.3,56.538" fill="#0019A8"/>
+    <!-- ordinary station: tick -->
+    <rect x="98.5" y="46.2" width="3" height="3" fill="#DC241F"/>
+    <!-- interchange rings -->
+    <circle cx="48" cy="45" r="3.1" fill="#FFFFFF" stroke="#111111" stroke-width="0.9"/>
+    <circle cx="150" cy="45" r="3.1" fill="#FFFFFF" stroke="#111111" stroke-width="0.9"/>
+    <!-- station names -->
+    <g font-family="GillSans, Gill Sans" font-size="6.6" letter-spacing="0.55" fill="#111111" text-anchor="middle">
+      <text x="48" y="38">PASSPORTS</text>
+      <text x="100" y="57.2">ADAPTERS</text>
+      <text x="150" y="38">LUGGAGE TAGS</text>
+    </g>
+  </g>
+</svg>

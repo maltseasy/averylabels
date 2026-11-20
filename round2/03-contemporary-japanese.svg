@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <rect x="3" y="3" width="183" height="66" fill="#F6F4EF"/>
+  <circle cx="22.9" cy="19.4" r="2.5" fill="#C23A26"/>
+  <text x="19.6" y="54" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="21" letter-spacing="0.3" fill="#262523">Tea</text>
+  <line x1="148" y1="17" x2="148" y2="54" stroke="#B4AEA2" stroke-width="0.4"/>
+  <text x="162.5" y="28.4" text-anchor="middle" font-family="HiraMinProN-W3, Hiragino Mincho ProN" font-size="13" fill="#262523">茶</text>
+  <text x="162.5" y="46.2" text-anchor="middle" font-family="HiraginoSans-W3, Hiragino Sans" font-size="5.5" fill="#6B665E">ち</text>
+  <text x="163" y="53.2" text-anchor="middle" font-family="HiraginoSans-W3, Hiragino Sans" font-size="5.5" fill="#6B665E">ゃ</text>
+</svg>

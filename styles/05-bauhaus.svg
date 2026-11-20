@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <rect x="3" y="3" width="183" height="66" fill="#efe9d9"/>
+  <!-- left column: red square over black bar, rotated lowercase line -->
+  <rect x="3" y="3" width="13" height="13" fill="#d42a1e"/>
+  <rect x="3" y="16" width="13" height="53" fill="#141414"/>
+  <text transform="translate(11.7 64.5) rotate(-90)" font-family="Futura-Medium, Futura" font-size="6.2" letter-spacing="1.6" fill="#efe9d9">werkzeug</text>
+  <!-- blue circle, cut by the rule -->
+  <circle cx="38.5" cy="37" r="17.5" fill="#1d4f9c"/>
+  <!-- yellow triangle standing on the rule -->
+  <polygon points="168,46 184,46 176,32.1" fill="#f2bd12"/>
+  <!-- heavy rule -->
+  <rect x="21" y="46" width="165" height="4" fill="#141414"/>
+  <!-- main word -->
+  <text x="58.4" y="43.2" font-family="Futura-Bold, Futura" font-size="16" letter-spacing="-0.3" fill="#141414">screwdrivers</text>
+  <text x="184" y="10.6" text-anchor="end" font-family="Futura-Bold, Futura" font-size="5.6" letter-spacing="1.1" fill="#141414">05</text>
+  <!-- lower strip: the four drives, each a screw head seen from above with its recess -->
+  <circle cx="62.2" cy="59.6" r="4.2" fill="#141414"/>
+  <rect x="59.30" y="58.85" width="5.8" height="1.5" fill="#efe9d9"/>
+  <rect x="61.45" y="56.70" width="1.5" height="5.8" fill="#efe9d9"/>
+  <text x="69.00" y="61.9" font-family="Futura-Medium, Futura" font-size="6.3" letter-spacing="0.6" fill="#141414">phillips</text>
+  <circle cx="103.6" cy="59.6" r="4.2" fill="#141414"/>
+  <rect x="99.30" y="58.80" width="8.60" height="1.6" fill="#efe9d9"/>
+  <text x="110.40" y="61.9" font-family="Futura-Medium, Futura" font-size="6.3" letter-spacing="0.6" fill="#141414">flat</text>
+  <circle cx="132.2" cy="59.6" r="4.2" fill="#141414"/>
+  <polygon points="132.20,56.55 132.46,56.66 132.67,56.94 132.81,57.33 132.88,57.72 132.94,58.02 133.02,58.17 133.20,58.17 133.49,58.07 133.86,57.94 134.27,57.86 134.62,57.90 134.84,58.08 134.88,58.35 134.74,58.68 134.47,58.99 134.17,59.25 133.94,59.45 133.85,59.60 133.94,59.75 134.17,59.95 134.47,60.21 134.74,60.52 134.88,60.85 134.84,61.12 134.62,61.30 134.27,61.34 133.86,61.26 133.49,61.13 133.20,61.03 133.02,61.03 132.94,61.18 132.88,61.48 132.81,61.87 132.67,62.26 132.46,62.54 132.20,62.65 131.94,62.54 131.73,62.26 131.59,61.87 131.52,61.48 131.46,61.18 131.38,61.03 131.20,61.03 130.91,61.13 130.54,61.26 130.13,61.34 129.78,61.30 129.56,61.12 129.52,60.85 129.66,60.52 129.93,60.21 130.23,59.95 130.46,59.75 130.55,59.60 130.46,59.45 130.23,59.25 129.93,58.99 129.66,58.68 129.52,58.35 129.56,58.08 129.78,57.90 130.13,57.86 130.54,57.94 130.91,58.07 131.20,58.17 131.38,58.17 131.46,58.02 131.52,57.72 131.59,57.33 131.73,56.94 131.94,56.66" fill="#efe9d9"/>
+  <text x="139.00" y="61.9" font-family="Futura-Medium, Futura" font-size="6.3" letter-spacing="0.6" fill="#141414">torx</text>
+  <circle cx="162.6" cy="59.6" r="4.2" fill="#141414"/>
+  <polygon points="165.30,59.60 163.95,61.94 161.25,61.94 159.90,59.60 161.25,57.26 163.95,57.26" fill="#efe9d9"/>
+  <text x="169.40" y="61.9" font-family="Futura-Medium, Futura" font-size="6.3" letter-spacing="0.6" fill="#141414">hex</text>
+</svg>

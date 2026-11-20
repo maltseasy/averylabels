@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+<defs>
+<clipPath id="s17-clip"><rect x="3" y="3" width="183" height="66" rx="3" ry="3"/></clipPath>
+<clipPath id="s17-floor"><rect x="3" y="48" width="183" height="21"/></clipPath>
+<clipPath id="s17-sun"><circle cx="94.5" cy="35" r="24"/></clipPath>
+<linearGradient id="s17-sky" gradientUnits="userSpaceOnUse" x1="0" y1="3" x2="0" y2="48">
+<stop offset="0" stop-color="#0d0221"/><stop offset="0.55" stop-color="#2a0845"/><stop offset="1" stop-color="#7a1470"/></linearGradient>
+<linearGradient id="s17-ground" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="69">
+<stop offset="0" stop-color="#2b0a4a"/><stop offset="1" stop-color="#0a0118"/></linearGradient>
+<linearGradient id="s17-sunfill" gradientUnits="userSpaceOnUse" x1="0" y1="11" x2="0" y2="48">
+<stop offset="0" stop-color="#ffe85a"/><stop offset="0.45" stop-color="#ff8a3c"/><stop offset="1" stop-color="#ff2a8a"/></linearGradient>
+<linearGradient id="s17-chrome" gradientUnits="userSpaceOnUse" x1="0" y1="30.5" x2="0" y2="46.5">
+<stop offset="0" stop-color="#1b2a9c"/><stop offset="0.3" stop-color="#5fc8ff"/><stop offset="0.52" stop-color="#ffffff"/>
+<stop offset="0.53" stop-color="#3b0a52"/><stop offset="0.74" stop-color="#ff4fa0"/><stop offset="1" stop-color="#ffe9a8"/></linearGradient>
+<linearGradient id="s17-hz" gradientUnits="userSpaceOnUse" x1="3" y1="0" x2="186" y2="0">
+<stop offset="0" stop-color="#ff2a8a"/><stop offset="0.5" stop-color="#ffd0f0"/><stop offset="1" stop-color="#ff2a8a"/></linearGradient>
+<radialGradient id="s17-glow" gradientUnits="userSpaceOnUse" cx="94.5" cy="35" r="42">
+<stop offset="0.55" stop-color="#ff4fa0" stop-opacity="0.55"/><stop offset="1" stop-color="#ff4fa0" stop-opacity="0"/></radialGradient>
+<linearGradient id="s17-haze" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="56">
+<stop offset="0" stop-color="#ff5fc0" stop-opacity="0.5"/><stop offset="1" stop-color="#ff5fc0" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#s17-clip)">
+<rect x="3" y="3" width="183" height="45" fill="url(#s17-sky)"/>
+<rect x="3" y="48" width="183" height="21" fill="url(#s17-ground)"/>
+<circle cx="12" cy="21" r="0.4" fill="#ffd9ff" opacity="0.6"/>
+<circle cx="24" cy="9.5" r="0.3" fill="#ffd9ff" opacity="0.8"/>
+<circle cx="33" cy="26" r="0.5" fill="#ffd9ff" opacity="0.9"/>
+<circle cx="47" cy="15" r="0.35" fill="#ffd9ff" opacity="0.7"/>
+<circle cx="58" cy="7.5" r="0.3" fill="#ffd9ff" opacity="0.6"/>
+<circle cx="66" cy="22" r="0.4" fill="#ffd9ff" opacity="0.8"/>
+<circle cx="123" cy="8" r="0.35" fill="#ffd9ff" opacity="0.8"/>
+<circle cx="131" cy="20" r="0.45" fill="#ffd9ff" opacity="0.9"/>
+<circle cx="146" cy="24.5" r="0.3" fill="#ffd9ff" opacity="0.6"/>
+<circle cx="155" cy="17" r="0.4" fill="#ffd9ff" opacity="0.7"/>
+<circle cx="168" cy="26" r="0.5" fill="#ffd9ff" opacity="0.9"/>
+<circle cx="178" cy="20" r="0.3" fill="#ffd9ff" opacity="0.6"/>
+<rect x="3" y="3" width="183" height="45" fill="url(#s17-glow)"/>
+<g clip-path="url(#s17-sun)"><path d="M70 11H119V26.6H70ZM70 27.5H119V30.0H70ZM70 31.0H119V33.3H70ZM70 34.5H119V36.5H70ZM70 37.9H119V39.6H70ZM70 41.2H119V42.6H70ZM70 44.4H119V45.5H70ZM70 47.2H119V48H70Z" fill="url(#s17-sunfill)"/></g>
+<g clip-path="url(#s17-floor)" fill="none">
+<line x1="94.5" y1="48" x2="3" y2="55.12" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="55.54" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="56.01" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="56.54" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="57.15" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="57.85" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="58.67" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="59.65" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="60.81" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="62.23" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="64.01" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="3" y2="66.30" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="4.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="19.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="34.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="49.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="64.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="79.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="94.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="109.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="124.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="139.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="154.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="169.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="184.5" y2="69.00" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="66.30" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="64.01" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="62.23" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="60.81" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="59.65" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="58.67" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="57.85" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="57.15" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="56.54" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="56.01" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="55.54" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="94.5" y1="48" x2="186" y2="55.12" stroke="#ff3fb4" stroke-width="0.4" opacity="0.85"/>
+<line x1="3" y1="64.54" x2="186" y2="64.54" stroke="#35e0ff" stroke-width="0.4" opacity="0.8"/>
+<line x1="3" y1="60.29" x2="186" y2="60.29" stroke="#35e0ff" stroke-width="0.4" opacity="0.8"/>
+<line x1="3" y1="56.60" x2="186" y2="56.60" stroke="#35e0ff" stroke-width="0.4" opacity="0.8"/>
+<line x1="3" y1="53.51" x2="186" y2="53.51" stroke="#35e0ff" stroke-width="0.4" opacity="0.8"/>
+<line x1="3" y1="51.07" x2="186" y2="51.07" stroke="#35e0ff" stroke-width="0.4" opacity="0.8"/>
+<line x1="3" y1="49.43" x2="186" y2="49.43" stroke="#35e0ff" stroke-width="0.4" opacity="0.8"/>
+</g>
+<rect x="3" y="48" width="183" height="8" fill="url(#s17-haze)"/>
+<line x1="3" y1="48" x2="186" y2="48" stroke="url(#s17-hz)" stroke-width="0.6"/>
+<path d="M42.86 44.72Q42.40 45.11 41.79 45.52Q41.19 45.93 40.42 46.24Q39.65 46.54 38.69 46.74Q37.73 46.94 36.57 46.94Q34.81 46.94 33.43 46.46Q32.06 45.97 31.10 45.07Q30.14 44.17 29.64 42.89Q29.13 41.62 29.13 40.05Q29.13 38.05 29.82 36.31Q30.52 34.58 31.77 33.28Q33.02 31.98 34.74 31.23Q36.46 30.48 38.50 30.48Q40.53 30.48 42.07 31.11Q43.61 31.74 44.42 32.66L40.88 36.31Q40.48 35.74 39.83 35.47Q39.18 35.19 38.37 35.19Q37.53 35.19 36.85 35.53Q36.17 35.87 35.69 36.46Q35.20 37.04 34.94 37.81Q34.67 38.58 34.67 39.46Q34.67 40.60 35.39 41.40Q36.10 42.19 37.53 42.19Q38.37 42.19 39.10 41.84Q39.82 41.48 40.35 40.98ZM54.42 46.50L55.48 40.52L51.03 40.52L49.98 46.50L44.89 46.50L47.64 30.92L52.70 30.92L51.76 36.27L56.20 36.27L57.15 30.92L62.25 30.92L59.50 46.50ZM74.06 46.50L73.70 44.12L68.64 44.12L67.35 46.50L61.67 46.50L71.24 30.92L76.61 30.92L79.34 46.50ZM72.82 36.23L70.60 40.23L73.29 40.23ZM90.52 46.50L88.39 40.80L87.77 40.80L86.81 46.50L81.90 46.50L84.65 30.92L91.05 30.92Q92.33 30.92 93.36 31.21Q94.40 31.50 95.12 32.05Q95.85 32.60 96.23 33.40Q96.62 34.20 96.62 35.24Q96.62 37.17 95.70 38.43Q94.79 39.68 93.21 40.14L96.24 46.50ZM89.40 37.57Q90.41 37.57 90.98 37.23Q91.56 36.89 91.56 36.14Q91.56 35.46 91.08 35.20Q90.61 34.95 89.80 34.95L88.85 34.95L88.39 37.57ZM110.97 36.27Q110.60 35.70 109.97 35.35Q109.34 34.99 108.36 34.99Q107.59 34.99 106.87 35.31Q106.16 35.63 105.62 36.22Q105.08 36.80 104.75 37.63Q104.42 38.47 104.42 39.53Q104.42 40.82 105.17 41.67Q105.91 42.52 107.54 42.52Q107.92 42.52 108.30 42.45Q108.69 42.39 108.93 42.28L109.17 40.91L106.62 40.91L107.32 36.91L114.38 36.91L112.89 45.40Q111.68 46.04 110.15 46.49Q108.62 46.94 106.90 46.94Q105.14 46.94 103.71 46.49Q102.28 46.04 101.26 45.16Q100.24 44.28 99.68 42.99Q99.12 41.70 99.12 40.05Q99.12 38.05 99.80 36.31Q100.48 34.58 101.70 33.28Q102.92 31.98 104.63 31.23Q106.33 30.48 108.38 30.48Q110.40 30.48 111.99 31.07Q113.57 31.65 114.41 32.66ZM116.57 46.50L119.32 30.92L129.51 30.92L128.76 35.17L123.37 35.17L123.11 36.67L128.25 36.67L127.55 40.63L122.40 40.63L122.12 42.25L128.14 42.25L127.40 46.50ZM139.42 46.50L137.29 40.80L136.67 40.80L135.70 46.50L130.80 46.50L133.55 30.92L139.95 30.92Q141.22 30.92 142.26 31.21Q143.29 31.50 144.02 32.05Q144.75 32.60 145.13 33.40Q145.51 34.20 145.51 35.24Q145.51 37.17 144.60 38.43Q143.69 39.68 142.10 40.14L145.14 46.50ZM138.30 37.57Q139.31 37.57 139.88 37.23Q140.46 36.89 140.46 36.14Q140.46 35.46 139.98 35.20Q139.51 34.95 138.69 34.95L137.75 34.95L137.29 37.57ZM157.74 35.57Q157.36 35.13 156.77 34.85Q156.18 34.58 155.38 34.58Q154.77 34.58 154.27 34.84Q153.78 35.10 153.78 35.65Q153.78 36.09 154.20 36.34Q154.61 36.58 155.43 36.84Q156.44 37.17 157.23 37.59Q158.02 38.01 158.57 38.56Q159.12 39.11 159.42 39.81Q159.72 40.52 159.72 41.40Q159.72 42.89 159.06 43.95Q158.40 45.00 157.37 45.66Q156.35 46.32 155.12 46.63Q153.89 46.94 152.72 46.94Q151.80 46.94 150.87 46.79Q149.95 46.63 149.10 46.35Q148.26 46.06 147.51 45.64Q146.76 45.22 146.21 44.70L149.69 41.48Q149.95 41.79 150.32 42.03Q150.70 42.28 151.10 42.44Q151.51 42.61 151.93 42.70Q152.35 42.80 152.70 42.80Q153.47 42.80 153.93 42.55Q154.39 42.30 154.39 41.81Q154.39 41.42 154.01 41.11Q153.62 40.80 152.57 40.47Q151.73 40.21 150.99 39.86Q150.26 39.50 149.72 39.01Q149.18 38.51 148.87 37.82Q148.56 37.13 148.56 36.14Q148.56 34.93 149.06 33.89Q149.55 32.86 150.47 32.10Q151.38 31.34 152.64 30.91Q153.91 30.48 155.43 30.48Q156.26 30.48 157.08 30.63Q157.89 30.77 158.62 31.02Q159.34 31.28 159.96 31.63Q160.58 31.98 160.99 32.42Z" fill="none" stroke="#ff2a8a" stroke-width="4.2" stroke-linejoin="round" opacity="0.28"/>
+<path d="M42.86 44.72Q42.40 45.11 41.79 45.52Q41.19 45.93 40.42 46.24Q39.65 46.54 38.69 46.74Q37.73 46.94 36.57 46.94Q34.81 46.94 33.43 46.46Q32.06 45.97 31.10 45.07Q30.14 44.17 29.64 42.89Q29.13 41.62 29.13 40.05Q29.13 38.05 29.82 36.31Q30.52 34.58 31.77 33.28Q33.02 31.98 34.74 31.23Q36.46 30.48 38.50 30.48Q40.53 30.48 42.07 31.11Q43.61 31.74 44.42 32.66L40.88 36.31Q40.48 35.74 39.83 35.47Q39.18 35.19 38.37 35.19Q37.53 35.19 36.85 35.53Q36.17 35.87 35.69 36.46Q35.20 37.04 34.94 37.81Q34.67 38.58 34.67 39.46Q34.67 40.60 35.39 41.40Q36.10 42.19 37.53 42.19Q38.37 42.19 39.10 41.84Q39.82 41.48 40.35 40.98ZM54.42 46.50L55.48 40.52L51.03 40.52L49.98 46.50L44.89 46.50L47.64 30.92L52.70 30.92L51.76 36.27L56.20 36.27L57.15 30.92L62.25 30.92L59.50 46.50ZM74.06 46.50L73.70 44.12L68.64 44.12L67.35 46.50L61.67 46.50L71.24 30.92L76.61 30.92L79.34 46.50ZM72.82 36.23L70.60 40.23L73.29 40.23ZM90.52 46.50L88.39 40.80L87.77 40.80L86.81 46.50L81.90 46.50L84.65 30.92L91.05 30.92Q92.33 30.92 93.36 31.21Q94.40 31.50 95.12 32.05Q95.85 32.60 96.23 33.40Q96.62 34.20 96.62 35.24Q96.62 37.17 95.70 38.43Q94.79 39.68 93.21 40.14L96.24 46.50ZM89.40 37.57Q90.41 37.57 90.98 37.23Q91.56 36.89 91.56 36.14Q91.56 35.46 91.08 35.20Q90.61 34.95 89.80 34.95L88.85 34.95L88.39 37.57ZM110.97 36.27Q110.60 35.70 109.97 35.35Q109.34 34.99 108.36 34.99Q107.59 34.99 106.87 35.31Q106.16 35.63 105.62 36.22Q105.08 36.80 104.75 37.63Q104.42 38.47 104.42 39.53Q104.42 40.82 105.17 41.67Q105.91 42.52 107.54 42.52Q107.92 42.52 108.30 42.45Q108.69 42.39 108.93 42.28L109.17 40.91L106.62 40.91L107.32 36.91L114.38 36.91L112.89 45.40Q111.68 46.04 110.15 46.49Q108.62 46.94 106.90 46.94Q105.14 46.94 103.71 46.49Q102.28 46.04 101.26 45.16Q100.24 44.28 99.68 42.99Q99.12 41.70 99.12 40.05Q99.12 38.05 99.80 36.31Q100.48 34.58 101.70 33.28Q102.92 31.98 104.63 31.23Q106.33 30.48 108.38 30.48Q110.40 30.48 111.99 31.07Q113.57 31.65 114.41 32.66ZM116.57 46.50L119.32 30.92L129.51 30.92L128.76 35.17L123.37 35.17L123.11 36.67L128.25 36.67L127.55 40.63L122.40 40.63L122.12 42.25L128.14 42.25L127.40 46.50ZM139.42 46.50L137.29 40.80L136.67 40.80L135.70 46.50L130.80 46.50L133.55 30.92L139.95 30.92Q141.22 30.92 142.26 31.21Q143.29 31.50 144.02 32.05Q144.75 32.60 145.13 33.40Q145.51 34.20 145.51 35.24Q145.51 37.17 144.60 38.43Q143.69 39.68 142.10 40.14L145.14 46.50ZM138.30 37.57Q139.31 37.57 139.88 37.23Q140.46 36.89 140.46 36.14Q140.46 35.46 139.98 35.20Q139.51 34.95 138.69 34.95L137.75 34.95L137.29 37.57ZM157.74 35.57Q157.36 35.13 156.77 34.85Q156.18 34.58 155.38 34.58Q154.77 34.58 154.27 34.84Q153.78 35.10 153.78 35.65Q153.78 36.09 154.20 36.34Q154.61 36.58 155.43 36.84Q156.44 37.17 157.23 37.59Q158.02 38.01 158.57 38.56Q159.12 39.11 159.42 39.81Q159.72 40.52 159.72 41.40Q159.72 42.89 159.06 43.95Q158.40 45.00 157.37 45.66Q156.35 46.32 155.12 46.63Q153.89 46.94 152.72 46.94Q151.80 46.94 150.87 46.79Q149.95 46.63 149.10 46.35Q148.26 46.06 147.51 45.64Q146.76 45.22 146.21 44.70L149.69 41.48Q149.95 41.79 150.32 42.03Q150.70 42.28 151.10 42.44Q151.51 42.61 151.93 42.70Q152.35 42.80 152.70 42.80Q153.47 42.80 153.93 42.55Q154.39 42.30 154.39 41.81Q154.39 41.42 154.01 41.11Q153.62 40.80 152.57 40.47Q151.73 40.21 150.99 39.86Q150.26 39.50 149.72 39.01Q149.18 38.51 148.87 37.82Q148.56 37.13 148.56 36.14Q148.56 34.93 149.06 33.89Q149.55 32.86 150.47 32.10Q151.38 31.34 152.64 30.91Q153.91 30.48 155.43 30.48Q156.26 30.48 157.08 30.63Q157.89 30.77 158.62 31.02Q159.34 31.28 159.96 31.63Q160.58 31.98 160.99 32.42Z" fill="#12032b" stroke="#12032b" stroke-width="2.2" stroke-linejoin="round"/>
+<text font-family="AvenirNext-HeavyItalic, Avenir Next" font-size="22" y="46.5" fill="url(#s17-chrome)" stroke="#e9f6ff" stroke-width="0.35" stroke-linejoin="round"><tspan x="28.45">C</tspan><tspan x="44.74">H</tspan><tspan x="63.50">A</tspan><tspan x="81.75">R</tspan><tspan x="98.43">G</tspan><tspan x="116.42">E</tspan><tspan x="130.64">R</tspan><tspan x="147.33">S</tspan></text>
+<polygon points="43,56.6 152,56.6 148.4,66.2 39.4,66.2" fill="#12032b" opacity="0.9"/>
+<polygon points="43,56.6 152,56.6 148.4,66.2 39.4,66.2" fill="none" stroke="#ff4fb0" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="35.6" y1="58.6" x2="39.6" y2="58.6" stroke="#35e0ff" stroke-width="0.5"/>
+<line x1="34.1" y1="61.4" x2="38.6" y2="61.4" stroke="#35e0ff" stroke-width="0.5"/>
+<line x1="33.4" y1="64.2" x2="37.5" y2="64.2" stroke="#35e0ff" stroke-width="0.5"/>
+<line x1="153.9" y1="58.6" x2="157.9" y2="58.6" stroke="#35e0ff" stroke-width="0.5"/>
+<line x1="152.9" y1="61.4" x2="157.4" y2="61.4" stroke="#35e0ff" stroke-width="0.5"/>
+<line x1="151.8" y1="64.2" x2="155.9" y2="64.2" stroke="#35e0ff" stroke-width="0.5"/>
+<text font-family="AvenirNext-DemiBoldItalic, Avenir Next" font-size="6.5" text-anchor="middle" letter-spacing="0.9" x="95.7" y="63.7" fill="#ffe6f7">USB-C · MagSafe · Qi</text>
+<text font-family="HiraginoSans-W6, Hiragino Sans" font-size="6" x="9" y="13.5" letter-spacing="1.5" fill="#35e0ff">充電器</text>
+<text font-family="AvenirNext-DemiBold, Avenir Next" font-size="6" x="180" y="13.5" text-anchor="end" letter-spacing="1.3" fill="#ff7ac8">65 W</text>
+</g></svg>

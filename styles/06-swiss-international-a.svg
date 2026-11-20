@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+  <!-- Swiss International Typographic Style. Grid: 6 pt module; columns at x = 9, 57; list baselines every 8 pt at y = 39, 47, 55, 63, the last shared with the main word. -->
+  <rect x="3" y="3" width="183" height="66" fill="#FFFFFF"/>
+  <!-- red field, column 1: index number and the specific contents -->
+  <rect x="3" y="3" width="48" height="66" fill="#E2231A"/>
+  <text x="9" y="15" font-family="Helvetica-Bold, Helvetica" font-size="9" fill="#FFFFFF">06</text>
+  <text font-family="Helvetica, Helvetica" font-size="7" fill="#FFFFFF">
+    <tspan x="9" y="39">USB-C</tspan>
+    <tspan x="9" y="47">HDMI</tspan>
+    <tspan x="9" y="55">DisplayPort</tspan>
+    <tspan x="9" y="63">Lightning</tspan>
+  </text>
+  <!-- line progression: weights double, intervals constant -->
+  <g stroke="#111111" fill="none">
+    <line x1="57" y1="8.675" x2="186" y2="8.675" stroke-width="0.35"/>
+    <line x1="57" y1="13.2" x2="186" y2="13.2" stroke-width="0.7"/>
+    <line x1="57" y1="18.25" x2="186" y2="18.25" stroke-width="1.4"/>
+    <line x1="57" y1="24.35" x2="186" y2="24.35" stroke-width="2.8"/>
+  </g>
+  <text x="55.4" y="63" font-family="Helvetica-Bold, Helvetica" font-size="36" letter-spacing="-0.9" fill="#111111">Cables</text>
+</svg>

@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+<defs><radialGradient id="s26-ground" cx="0.4" cy="0.42" r="0.8"><stop offset="0" stop-color="#255c9c"/><stop offset="0.65" stop-color="#1d4e8c"/><stop offset="1" stop-color="#173f76"/></radialGradient></defs>
+<rect x="3" y="3" width="183" height="66" fill="url(#s26-ground)"/>
+<rect x="6" y="6" width="177" height="60" fill="none" stroke="#eaf2fc" stroke-width="0.9"/>
+<line x1="94.5" y1="3.6" x2="94.5" y2="6" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="94.5" y1="66" x2="94.5" y2="68.4" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="3.6" y1="36" x2="6" y2="36" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="183" y1="36" x2="185.4" y2="36" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<path d="M22.82 47.34 L25.3 49.5 L25.3 50 L28.7 50 L28.7 49.5 L31.18 47.34" fill="none" stroke="#eaf2fc" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="25.3" y1="49.5" x2="28.7" y2="49.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<path d="M22.36 41.14 Q21.72 41.76 22.36 42.38 Q21.72 43 22.36 43.62 Q21.72 44.24 22.36 44.86 Q21.72 45.48 22.36 46.1 Q21.72 46.72 22.36 47.34" fill="none" stroke="#eaf2fc" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M31.64 41.14 Q32.28 41.76 31.64 42.38 Q32.28 43 31.64 43.62 Q32.28 44.24 31.64 44.86 Q32.28 45.48 31.64 46.1 Q32.28 46.72 31.64 47.34" fill="none" stroke="#eaf2fc" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="22.36" y1="41.14" x2="31.64" y2="41.14" stroke="#eaf2fc" stroke-width="0.7" stroke-linecap="butt"/>
+<line x1="22.36" y1="47.34" x2="31.64" y2="47.34" stroke="#eaf2fc" stroke-width="0.7" stroke-linecap="butt"/>
+<line x1="22.36" y1="42.11" x2="31.64" y2="42.65" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="22.36" y1="43.35" x2="31.64" y2="43.89" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="22.36" y1="44.59" x2="31.64" y2="45.14" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="22.36" y1="45.83" x2="31.64" y2="46.38" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<path d="M22.59 41.14 C22.59 37.54 21.17 31.95 18.86 29.19 A10.63 10.63 0 1 1 35.14 29.19 C32.83 31.95 31.41 37.54 31.41 41.14" fill="none" stroke="#eaf2fc" stroke-width="0.85" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M25 41.14 L26.1 38.54 L26.1 33.94 L27.9 33.94 L27.9 38.54 L29 41.14" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="26.1" y1="33.94" x2="23.6" y2="31.54" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="23.6" y1="31.54" x2="25" y2="17.36" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="round"/>
+<line x1="26.1" y1="33.94" x2="25.85" y2="31.54" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="25.85" y1="31.54" x2="26.3" y2="17.36" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="round"/>
+<line x1="27.9" y1="33.94" x2="28.15" y2="31.54" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="28.15" y1="31.54" x2="27.7" y2="17.36" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="round"/>
+<line x1="27.9" y1="33.94" x2="30.4" y2="31.54" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="30.4" y1="31.54" x2="29" y2="17.36" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="round"/>
+<path d="M25 17.36 Q27 15.86 29 17.36" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="27" y1="8.2" x2="27" y2="56.9" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt" stroke-dasharray="5 0.9 0.9 0.9"/>
+<line x1="24.8" y1="11.73" x2="13" y2="11.73" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="24.4" y1="50" x2="13" y2="50" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="14" y1="11.73" x2="14" y2="50" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<polygon points="14,11.73 14.42,14.03 13.58,14.03" fill="#eaf2fc"/>
+<polygon points="14,50 13.58,47.7 14.42,47.7" fill="#eaf2fc"/>
+<text x="13.1" y="30.87" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc" text-anchor="middle" transform="rotate(-90 13.1 30.87)">108</text>
+<line x1="22.36" y1="50.9" x2="22.36" y2="56.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="31.64" y1="50.9" x2="31.64" y2="56.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="22.36" y1="55.4" x2="34.84" y2="55.4" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<polygon points="22.36,55.4 24.66,54.98 24.66,55.82" fill="#eaf2fc"/>
+<polygon points="31.64,55.4 29.34,55.82 29.34,54.98" fill="#eaf2fc"/>
+<text x="33.24" y="54.5" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc">Ø26</text>
+<path d="M35.14 15.53 L37.74 11.33 L39.34 11.33" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="35.14,15.53 35.87,13.63 36.52,14.03" fill="#eaf2fc"/>
+<text x="39.94" y="12.78" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc">Ø60</text>
+<circle cx="15.5" cy="60.6" r="3.1" fill="none" stroke="#eaf2fc" stroke-width="0.5"/>
+<line x1="18.6" y1="61.9" x2="39" y2="61.9" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="19.7" y="60.8" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.45" fill="#eaf2fc">ELEV.</text>
+<text x="15.5" y="62.3" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.8" letter-spacing="0" fill="#eaf2fc" text-anchor="middle">1</text>
+<path d="M59.73 47.7 L59.73 48.85 L59.31 48.85 L59.31 50 L61.15 50 L61.15 48.85 L60.73 48.85 L60.73 47.7 Z" fill="#eaf2fc"/>
+<path d="M63.27 47.7 L63.27 48.85 L62.85 48.85 L62.85 50 L64.69 50 L64.69 48.85 L64.27 48.85 L64.27 47.7 Z" fill="#eaf2fc"/>
+<path d="M58.1 47.7 L58.1 41.5 C57.7 37.3 53.14 36.9 53.14 33.7 L53.14 30.87 L70.86 30.87 L70.86 33.7 C70.86 36.9 66.3 37.3 65.9 41.5 L65.9 47.7 Z" fill="none" stroke="#eaf2fc" stroke-width="0.85" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="53.14" y1="33.7" x2="70.86" y2="33.7" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="58.1" y1="41.5" x2="65.9" y2="41.5" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<path d="M59.43 41.5 C59.16 37.3 56.15 36.9 56.15 33.7" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M60.71 41.5 C60.58 37.3 59.08 36.9 59.08 33.7" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M63.29 41.5 C63.42 37.3 64.92 36.9 64.92 33.7" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M64.57 41.5 C64.84 37.3 67.85 36.9 67.85 33.7" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="62" cy="18.4" r="8.86" fill="none" stroke="#eaf2fc" stroke-width="0.85"/>
+<circle cx="62" cy="18.4" r="7.71" fill="none" stroke="#eaf2fc" stroke-width="0.4"/>
+<circle cx="62" cy="18.4" r="5.3" fill="none" stroke="#eaf2fc" stroke-width="0.4"/>
+<line x1="67.25" y1="19.09" x2="69.64" y2="19.41" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="66.9" y1="20.43" x2="69.12" y2="21.35" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="66.2" y1="21.63" x2="68.12" y2="23.09" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="65.23" y1="22.6" x2="66.69" y2="24.52" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="64.03" y1="23.3" x2="64.95" y2="25.52" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="62.69" y1="23.65" x2="63.01" y2="26.04" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="61.31" y1="23.65" x2="60.99" y2="26.04" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="59.97" y1="23.3" x2="59.05" y2="25.52" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="58.77" y1="22.6" x2="57.31" y2="24.52" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="57.8" y1="21.63" x2="55.88" y2="23.09" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="57.1" y1="20.43" x2="54.88" y2="21.35" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="56.75" y1="19.09" x2="54.36" y2="19.41" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="56.75" y1="17.71" x2="54.36" y2="17.39" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="57.1" y1="16.37" x2="54.88" y2="15.45" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="57.8" y1="15.17" x2="55.88" y2="13.71" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="58.77" y1="14.2" x2="57.31" y2="12.28" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="59.97" y1="13.5" x2="59.05" y2="11.28" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="61.31" y1="13.15" x2="60.99" y2="10.76" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="62.69" y1="13.15" x2="63.01" y2="10.76" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="64.03" y1="13.5" x2="64.95" y2="11.28" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="65.23" y1="14.2" x2="66.69" y2="12.28" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="66.2" y1="15.17" x2="68.12" y2="13.71" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="66.9" y1="16.37" x2="69.12" y2="15.45" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="67.25" y1="17.71" x2="69.64" y2="17.39" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="50.94" y1="18.4" x2="73.06" y2="18.4" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt" stroke-dasharray="5 0.9 0.9 0.9"/>
+<line x1="62" y1="7.4" x2="62" y2="56.9" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt" stroke-dasharray="5 0.9 0.9 0.9"/>
+<line x1="53.14" y1="25.99" x2="53.14" y2="30.27" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="70.86" y1="25.99" x2="70.86" y2="30.27" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="71.66" y1="30.87" x2="76.2" y2="30.87" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="65.9" y1="50" x2="76.2" y2="50" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="75.2" y1="30.87" x2="75.2" y2="50" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<polygon points="75.2,30.87 75.62,33.17 74.78,33.17" fill="#eaf2fc"/>
+<polygon points="75.2,50 74.78,47.7 75.62,47.7" fill="#eaf2fc"/>
+<text x="74.3" y="40.43" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc" text-anchor="middle" transform="rotate(-90 74.3 40.43)">54</text>
+<line x1="60.23" y1="50.9" x2="60.23" y2="56.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="63.77" y1="50.9" x2="63.77" y2="56.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="56.83" y1="55.4" x2="67.17" y2="55.4" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<polygon points="60.23,55.4 57.93,55.82 57.93,54.98" fill="#eaf2fc"/>
+<polygon points="63.77,55.4 66.07,54.98 66.07,55.82" fill="#eaf2fc"/>
+<text x="67.97" y="56.9" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc">10</text>
+<path d="M68.98 12.95 L71.28 9.65 L72.78 9.65" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="68.98,12.95 69.81,11.09 70.44,11.52" fill="#eaf2fc"/>
+<text x="73.38" y="11.1" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc">Ø50</text>
+<circle cx="50.5" cy="60.6" r="3.1" fill="none" stroke="#eaf2fc" stroke-width="0.5"/>
+<line x1="53.6" y1="61.9" x2="74" y2="61.9" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="54.7" y="60.8" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.45" fill="#eaf2fc">ELEV.</text>
+<text x="50.5" y="62.3" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.8" letter-spacing="0" fill="#eaf2fc" text-anchor="middle">2</text>
+<path d="M93.09 48.37 L94.15 49.5 L94.15 50 L95.85 50 L95.85 49.5 L96.91 48.37" fill="none" stroke="#eaf2fc" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="94.15" y1="49.5" x2="95.85" y2="49.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<path d="M92.87 43.98 Q92.49 44.53 92.87 45.07 Q92.49 45.62 92.87 46.17 Q92.49 46.72 92.87 47.27 Q92.49 47.82 92.87 48.37" fill="none" stroke="#eaf2fc" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M97.13 43.98 Q97.51 44.53 97.13 45.07 Q97.51 45.62 97.13 46.17 Q97.51 46.72 97.13 47.27 Q97.51 47.82 97.13 48.37" fill="none" stroke="#eaf2fc" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="92.87" y1="43.98" x2="97.13" y2="43.98" stroke="#eaf2fc" stroke-width="0.7" stroke-linecap="butt"/>
+<line x1="92.87" y1="48.37" x2="97.13" y2="48.37" stroke="#eaf2fc" stroke-width="0.7" stroke-linecap="butt"/>
+<line x1="92.87" y1="44.83" x2="97.13" y2="45.32" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="92.87" y1="45.93" x2="97.13" y2="46.41" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="92.87" y1="47.03" x2="97.13" y2="47.51" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<path d="M92.98 43.98 C92.98 40.78 88.8 39.46 88.8 34.06 C88.8 26.56 92.9 20.57 94.2 15.67 C94.5 14.57 95.5 14.57 95.8 15.67 C97.1 20.57 101.2 26.56 101.2 34.06 C101.2 39.46 97.02 40.78 97.02 43.98" fill="none" stroke="#eaf2fc" stroke-width="0.85" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M93.9 43.98 L94.4 41.98 L94.4 38.58 L95.6 38.58 L95.6 41.98 L96.1 43.98" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="94.4" y1="38.58" x2="92.5" y2="36.38" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="92.5" y1="36.38" x2="94" y2="25.46" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="round"/>
+<line x1="95.6" y1="38.58" x2="97.5" y2="36.38" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="97.5" y1="36.38" x2="96" y2="25.46" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="round"/>
+<line x1="94" y1="25.46" x2="96" y2="25.46" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="95" y1="11.4" x2="95" y2="56.9" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt" stroke-dasharray="5 0.9 0.9 0.9"/>
+<line x1="96.6" y1="14.57" x2="107.6" y2="14.57" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="96.6" y1="50" x2="107.6" y2="50" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="106.6" y1="14.57" x2="106.6" y2="50" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<polygon points="106.6,14.57 107.02,16.87 106.18,16.87" fill="#eaf2fc"/>
+<polygon points="106.6,50 106.18,47.7 107.02,47.7" fill="#eaf2fc"/>
+<text x="105.7" y="32.28" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc" text-anchor="middle" transform="rotate(-90 105.7 32.28)">100</text>
+<line x1="92.87" y1="50.9" x2="92.87" y2="56.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="97.13" y1="50.9" x2="97.13" y2="56.5" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="89.47" y1="55.4" x2="100.53" y2="55.4" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<polygon points="92.87,55.4 90.57,55.82 90.57,54.98" fill="#eaf2fc"/>
+<polygon points="97.13,55.4 99.43,54.98 99.43,55.82" fill="#eaf2fc"/>
+<text x="101.33" y="56.9" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc">Ø12</text>
+<path d="M88.89 31.86 L86.6 27.66 L85.2 27.66" fill="none" stroke="#eaf2fc" stroke-width="0.35" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="88.89,31.86 87.6,30.28 88.27,29.92" fill="#eaf2fc"/>
+<text x="84.6" y="29.11" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.2" letter-spacing="0.2" fill="#eaf2fc" text-anchor="end">Ø35</text>
+<circle cx="83.5" cy="60.6" r="3.1" fill="none" stroke="#eaf2fc" stroke-width="0.5"/>
+<line x1="86.6" y1="61.9" x2="107" y2="61.9" stroke="#eaf2fc" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="87.7" y="60.8" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.45" fill="#eaf2fc">ELEV.</text>
+<text x="83.5" y="62.3" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.8" letter-spacing="0" fill="#eaf2fc" text-anchor="middle">3</text>
+<line x1="113" y1="6" x2="113" y2="66" stroke="#eaf2fc" stroke-width="0.9" stroke-linecap="butt"/>
+<line x1="113" y1="12" x2="183" y2="12" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="butt"/>
+<line x1="113" y1="18.3" x2="183" y2="18.3" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="113" y1="24.6" x2="183" y2="24.6" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="113" y1="30.9" x2="183" y2="30.9" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="113" y1="37.2" x2="183" y2="37.2" stroke="#eaf2fc" stroke-width="0.9" stroke-linecap="butt"/>
+<line x1="123.5" y1="6" x2="123.5" y2="37.2" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="168.5" y1="6" x2="168.5" y2="37.2" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<text x="118.25" y="10.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.3" fill="#eaf2fc" text-anchor="middle">MK</text>
+<text x="125.7" y="10.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.75" fill="#eaf2fc">LAMP SCHEDULE</text>
+<text x="175.75" y="10.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.3" fill="#eaf2fc" text-anchor="middle">MM</text>
+<circle cx="118.25" cy="15.15" r="2.35" fill="none" stroke="#eaf2fc" stroke-width="0.45"/>
+<text x="118.25" y="16.6" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.1" letter-spacing="0" fill="#eaf2fc" text-anchor="middle">1</text>
+<text x="125.7" y="17.1" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.8" letter-spacing="0.55" fill="#eaf2fc">E26</text>
+<text x="175.75" y="16.85" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.6" letter-spacing="0.15" fill="#eaf2fc" text-anchor="middle">Ø26</text>
+<circle cx="118.25" cy="21.45" r="2.35" fill="none" stroke="#eaf2fc" stroke-width="0.45"/>
+<text x="118.25" y="22.9" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.1" letter-spacing="0" fill="#eaf2fc" text-anchor="middle">2</text>
+<text x="125.7" y="23.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.8" letter-spacing="0.55" fill="#eaf2fc">GU10</text>
+<text x="175.75" y="23.15" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.6" letter-spacing="0.15" fill="#eaf2fc" text-anchor="middle">10</text>
+<circle cx="118.25" cy="27.75" r="2.35" fill="none" stroke="#eaf2fc" stroke-width="0.45"/>
+<text x="118.25" y="29.2" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.1" letter-spacing="0" fill="#eaf2fc" text-anchor="middle">3</text>
+<text x="125.7" y="29.7" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.8" letter-spacing="0.55" fill="#eaf2fc">CANDELABRA</text>
+<text x="175.75" y="29.45" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.6" letter-spacing="0.15" fill="#eaf2fc" text-anchor="middle">Ø12</text>
+<text x="118.25" y="35.5" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.3" fill="#eaf2fc" text-anchor="middle">ALL</text>
+<text x="125.7" y="36" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.8" letter-spacing="0.55" fill="#eaf2fc">LED 2700 K</text>
+<text x="175.75" y="35.75" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.6" letter-spacing="0.15" fill="#eaf2fc" text-anchor="middle">—</text>
+<text x="115.2" y="41.3" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.5" fill="#eaf2fc">TITLE</text>
+<text x="148.35" y="53.5" font-family="DINCondensed-Bold, DIN Condensed" font-size="14" letter-spacing="0.7" fill="#eaf2fc" text-anchor="middle">LIGHT BULBS</text>
+<line x1="113" y1="55.4" x2="183" y2="55.4" stroke="#eaf2fc" stroke-width="0.6" stroke-linecap="butt"/>
+<line x1="132" y1="55.4" x2="132" y2="66" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="149" y1="55.4" x2="149" y2="66" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<line x1="166.5" y1="55.4" x2="166.5" y2="66" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt"/>
+<text x="115" y="59.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.4" fill="#eaf2fc">SCALE</text>
+<text x="115" y="64.7" font-family="DINAlternate-Bold, DIN Alternate" font-size="5" letter-spacing="0.3" fill="#eaf2fc">1:8</text>
+<text x="134" y="59.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.4" fill="#eaf2fc">UNITS</text>
+<text x="134" y="64.7" font-family="DINAlternate-Bold, DIN Alternate" font-size="5" letter-spacing="0.3" fill="#eaf2fc">MM</text>
+<text x="168.5" y="59.4" font-family="DINAlternate-Bold, DIN Alternate" font-size="4.0" letter-spacing="0.4" fill="#eaf2fc">SHEET</text>
+<text x="168.5" y="64.7" font-family="DINAlternate-Bold, DIN Alternate" font-size="5" letter-spacing="0.3" fill="#eaf2fc">26</text>
+<circle cx="154" cy="60.7" r="2.3" fill="none" stroke="#eaf2fc" stroke-width="0.45"/>
+<circle cx="154" cy="60.7" r="1.25" fill="none" stroke="#eaf2fc" stroke-width="0.45"/>
+<path d="M159 59.45 L164 58.4 L164 63 L159 61.95 Z" fill="none" stroke="#eaf2fc" stroke-width="0.45" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="150.6" y1="60.7" x2="165" y2="60.7" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt" stroke-dasharray="2.2 0.6 0.6 0.6"/>
+<line x1="154" y1="57.3" x2="154" y2="64.1" stroke="#eaf2fc" stroke-width="0.35" stroke-linecap="butt" stroke-dasharray="2.2 0.6 0.6 0.6"/>
+</svg>

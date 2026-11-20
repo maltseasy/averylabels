@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="72" viewBox="0 0 189 72">
+<rect x="3" y="3" width="183" height="66" rx="4" fill="#ebe7dc"/>
+<g fill="#1c1b19">
+<circle cx="12.75" cy="16.75" r="1.75"/>
+<circle cx="18.25" cy="16.75" r="1.75"/>
+<circle cx="23.75" cy="16.75" r="1.75"/>
+<circle cx="29.25" cy="16.75" r="1.75"/>
+<circle cx="34.75" cy="16.75" r="1.75"/>
+<circle cx="40.25" cy="16.75" r="1.75"/>
+<circle cx="45.75" cy="16.75" r="1.75"/>
+<circle cx="51.25" cy="16.75" r="1.75"/>
+<circle cx="12.75" cy="22.25" r="1.75"/>
+<circle cx="18.25" cy="22.25" r="1.75"/>
+<circle cx="23.75" cy="22.25" r="1.75"/>
+<circle cx="29.25" cy="22.25" r="1.75"/>
+<circle cx="34.75" cy="22.25" r="1.75"/>
+<circle cx="40.25" cy="22.25" r="1.75"/>
+<circle cx="45.75" cy="22.25" r="1.75"/>
+<circle cx="51.25" cy="22.25" r="1.75"/>
+<circle cx="12.75" cy="27.75" r="1.75"/>
+<circle cx="18.25" cy="27.75" r="1.75"/>
+<circle cx="23.75" cy="27.75" r="1.75"/>
+<circle cx="29.25" cy="27.75" r="1.75"/>
+<circle cx="34.75" cy="27.75" r="1.75"/>
+<circle cx="40.25" cy="27.75" r="1.75"/>
+<circle cx="45.75" cy="27.75" r="1.75"/>
+<circle cx="51.25" cy="27.75" r="1.75"/>
+<circle cx="12.75" cy="33.25" r="1.75"/>
+<circle cx="18.25" cy="33.25" r="1.75"/>
+<circle cx="23.75" cy="33.25" r="1.75"/>
+<circle cx="29.25" cy="33.25" r="1.75"/>
+<circle cx="34.75" cy="33.25" r="1.75"/>
+<circle cx="40.25" cy="33.25" r="1.75"/>
+<circle cx="45.75" cy="33.25" r="1.75"/>
+<circle cx="51.25" cy="33.25" r="1.75"/>
+<circle cx="12.75" cy="38.75" r="1.75"/>
+<circle cx="18.25" cy="38.75" r="1.75"/>
+<circle cx="23.75" cy="38.75" r="1.75"/>
+<circle cx="29.25" cy="38.75" r="1.75"/>
+<circle cx="34.75" cy="38.75" r="1.75"/>
+<circle cx="40.25" cy="38.75" r="1.75"/>
+<circle cx="45.75" cy="38.75" r="1.75"/>
+<circle cx="51.25" cy="38.75" r="1.75"/>
+<circle cx="12.75" cy="44.25" r="1.75"/>
+<circle cx="18.25" cy="44.25" r="1.75"/>
+<circle cx="23.75" cy="44.25" r="1.75"/>
+<circle cx="29.25" cy="44.25" r="1.75"/>
+<circle cx="34.75" cy="44.25" r="1.75"/>
+<circle cx="40.25" cy="44.25" r="1.75"/>
+<circle cx="45.75" cy="44.25" r="1.75"/>
+<circle cx="51.25" cy="44.25" r="1.75"/>
+<circle cx="12.75" cy="49.75" r="1.75"/>
+<circle cx="18.25" cy="49.75" r="1.75"/>
+<circle cx="23.75" cy="49.75" r="1.75"/>
+<circle cx="29.25" cy="49.75" r="1.75"/>
+<circle cx="34.75" cy="49.75" r="1.75"/>
+<circle cx="40.25" cy="49.75" r="1.75"/>
+<circle cx="45.75" cy="49.75" r="1.75"/>
+<circle cx="51.25" cy="49.75" r="1.75"/>
+<circle cx="12.75" cy="55.25" r="1.75"/>
+<circle cx="18.25" cy="55.25" r="1.75"/>
+<circle cx="23.75" cy="55.25" r="1.75"/>
+<circle cx="29.25" cy="55.25" r="1.75"/>
+<circle cx="34.75" cy="55.25" r="1.75"/>
+<circle cx="40.25" cy="55.25" r="1.75"/>
+<circle cx="45.75" cy="55.25" r="1.75"/>
+<circle cx="51.25" cy="55.25" r="1.75"/>
+</g>
+<text x="59.2" y="35" font-family="Helvetica, Helvetica Neue, Arial" font-size="17.5" letter-spacing="-0.25" fill="#1c1b19">remotes</text>
+<g transform="translate(-1.75 0)">
+<g stroke="#1c1b19" stroke-width="0.45" stroke-linecap="butt">
+<line x1="156.95" y1="30.80" x2="155.22" y2="31.80"/>
+<line x1="155.46" y1="26.21" x2="154.27" y2="26.34"/>
+<line x1="155.97" y1="21.42" x2="154.83" y2="21.04"/>
+<line x1="158.38" y1="17.24" x2="157.49" y2="16.44"/>
+<line x1="162.28" y1="14.40" x2="161.79" y2="13.31"/>
+<line x1="167.00" y1="13.40" x2="167.00" y2="11.40"/>
+<line x1="171.72" y1="14.40" x2="172.21" y2="13.31"/>
+<line x1="175.62" y1="17.24" x2="176.51" y2="16.44"/>
+<line x1="178.03" y1="21.42" x2="179.17" y2="21.04"/>
+<line x1="178.54" y1="26.21" x2="179.73" y2="26.34"/>
+<line x1="177.05" y1="30.80" x2="178.78" y2="31.80"/>
+</g>
+<circle cx="167" cy="25" r="10" fill="#1c1b19"/>
+<circle cx="162.10" cy="20.58" r="1.5" fill="#e8601c"/>
+</g>
+<line x1="60" y1="45.5" x2="178" y2="45.5" stroke="#1c1b19" stroke-width="0.45"/>
+<g stroke="#1c1b19" stroke-width="0.45">
+<line x1="60.22" y1="45.5" x2="60.22" y2="49"/>
+<line x1="89.72" y1="45.5" x2="89.72" y2="49"/>
+<line x1="119.22" y1="45.5" x2="119.22" y2="49"/>
+<line x1="148.72" y1="45.5" x2="148.72" y2="49"/>
+<line x1="177.78" y1="45.5" x2="177.78" y2="49"/>
+</g>
+<g font-family="Helvetica, Helvetica Neue, Arial" font-size="5.8" letter-spacing="0.12" fill="#1c1b19">
+<text x="60" y="57">tv</text>
+<text x="89.5" y="57">soundbar</text>
+<text x="119" y="57">projector</text>
+<text x="148.5" y="57">fan</text>
+</g>
+</svg>
